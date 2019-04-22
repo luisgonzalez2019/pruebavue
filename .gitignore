@@ -4,8 +4,6 @@
 /storage/*.key
 /vendor
 /nbproject
-
-
 .env
 .phpunit.result.cache
 Homestead.json
